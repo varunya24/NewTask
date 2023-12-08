@@ -1,0 +1,125 @@
+body{
+    margin:0;
+    background-color: #803274;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: yellow;
+}
+
+.navbar-left{
+    padding-left: 10px; 
+}
+.logo-image{
+    height: 50px;
+    width:50px;
+    background-color:burlywood;
+    border: 2px solid green;
+
+}
+.navbar-right{
+    padding-right: 30px;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+}
+
+.a-element{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid red;
+}
+
+.home{
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-left{
+    font-size: 20px;
+    text-decoration: underline;
+    color:blueviolet;
+    background-color: #03cafc;
+    font-family: 'Arial', sans-serif;
+    border-style: dotted;
+    padding:20px;
+    margin: 10px;
+    max-width: 50%;
+}
+
+img{
+    padding:50px;
+    height: auto;
+    width: 50%;
+    margin-top: 20px;
+    margin-right: 50px;
+    max-width: 100%;
+
+}
+
+.home-left  .logo-image{
+    border-color:blue;
+    height: 200px;
+    width: 100px;
+}
+
+.services{
+    padding: 60px;
+    text-align:center
+}
+.service-1{
+    font-family:'Open Sans', sans-serif;
+    color: #191654;
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-style: italic;
+}
+
+.service-center{
+    display:flex;
+    flex-direction: row;
+}
+.service-card{
+    margin: 20px;
+    text-decoration: dashed;
+    border: 2px solid #520e54;
+}
+.sub-1{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.s-1{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:violet;
+}
+.contact{
+    text-align: center;
+    color:#252729;
+    margin:50px;
+}
+.service-1{
+    margin-bottom: 10px;
+
+}
+.contact-info{
+    margin-bottom: 20px;
+}
+.social-media-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.test-logo{
+    height: 50px;
+    width: 50px;
+    padding:10px;
+}
+.sub1{
+    padding:50px;
+    color:aquamarine;
+    width:300px;
+    display:flex;
+}

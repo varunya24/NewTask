@@ -1,0 +1,21 @@
+.nav-logo{
+    height:150px;
+    width:80px;
+}
+.session-body{
+    height: 100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXry7kRzTv6Ldg_ZD-0PaQ3NESb7VD84Zh3A&usqp=CAU');
+}
+.item-nav{
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.item-nav:hover{
+    color:green;
+}
+.anchor{
+    margin-left:auto;
+}
+.box{
+    border:2px solid yellow;
+}
