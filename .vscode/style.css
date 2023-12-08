@@ -1,0 +1,27 @@
+.my-container{
+    color: #437899;
+    text-align: center;
+}
+
+.heading{
+    color:#994393;
+}
+.para{
+    color:rgb(176, 174, 74);
+}
+
+.list{
+    list-style-type: disc;
+    text-align: left;
+}
+
+ol{
+    list-style-type: decimal;
+    text-align: left;
+}
+
+tr{
+    color: #17191a;
+    background-color: rgb(176, 174, 74);
+}  
+
